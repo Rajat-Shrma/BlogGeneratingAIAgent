@@ -1,0 +1,9 @@
+langgraph
+langchain
+langchain-google-genai
+langchain-huggingface
+dotenv
+langsmith
+langchain-groq
+tavily-python
+langchain-community
